@@ -1,6 +1,7 @@
 ---
-permalink: "/404.html"
-layout: default
+title: CV
+layout: page
+permalink: "/CV/"
 ---
 
 <style type="text/css" media="screen">
@@ -23,3 +24,4 @@ layout: default
   <p><strong>前面的区域等以后再来探索吧~</strong></p>
   <p>（可能根本就没打算弄，笑死）</p>
 </div>
+![Genshin](https://s2.loli.net/2022/07/25/w1cFS4dgVNheMtn.jpg)
