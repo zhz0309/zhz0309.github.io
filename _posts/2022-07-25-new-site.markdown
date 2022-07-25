@@ -1,0 +1,14 @@
+---
+title: Welcome to the new site!
+layout: post
+date: '2022-07-25 21:51:56 +0800'
+categories: jekyll update
+---
+
+For some reasons, the old site was abandoned and  currently I am devoted to buidling up this site.
+Powered by [jekyll](http://https://jekyllrb.com) and its **plugins**, the construction process is quiet easier (and faster) than before!
+More features and icons will be introduced in the future, so keep following!
+
+*what is the goal of life?*
+
+![pic](https://n.sinaimg.cn/spider2021426/320/w960h960/20210426/c636-kphwumr1638688.jpg)
